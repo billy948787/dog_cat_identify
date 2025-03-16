@@ -1,0 +1,6 @@
+*.keras
+*.pdf
+PetImages/
+*.pt
+*.txt
+*.pkl
