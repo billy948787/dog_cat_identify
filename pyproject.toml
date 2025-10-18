@@ -1,0 +1,16 @@
+[project]
+name = "dog-cat-identify"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "albumentations>=2.0.8",
+    "ipykernel>=7.0.1",
+    "ipython>=9.6.0",
+    "jupyter-core>=5.9.1",
+    "matplotlib>=3.10.7",
+    "scikit-learn>=1.7.2",
+    "tensorflow>=2.20.0",
+    "ultralytics>=8.3.217",
+]

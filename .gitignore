@@ -4,3 +4,5 @@ PetImages/
 *.pt
 *.txt
 *.pkl
+.venv/
+*.lock
